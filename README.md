@@ -80,6 +80,6 @@
 
 ---------
 
-> 基礎資料來源: [《政府網站版型與內容管理規範》](http://www.webguide.nat.gov.tw/index.php/ch/speci/index.html)
+> 基礎資料來源: [《政府網站版型與內容管理規範》](https://www.webguide.nat.gov.tw/cp.aspx?n=554)
 
 > 如果您需要英文版的模板，可以參考 [MDN 隱私權政策制定指南](https://developer.mozilla.org/zh-TW/docs/Mozilla/Marketplace/Publishing/Privacy_policies#Mozilla_Marketplace_.E7.9A.84.E9.9A.B1.E7.A7.81.E6.AC.8A.E8.A6.81.E6.B1.82) 與 https://github.com/flamsmark/privacy-policy-template
